@@ -1,0 +1,16 @@
+D:\Laboratory\Detect\FlowerDetect\bin\x64\Debug\FlowerDetect.exe.config
+D:\Laboratory\Detect\FlowerDetect\bin\x64\Debug\FlowerDetect.exe
+D:\Laboratory\Detect\FlowerDetect\bin\x64\Debug\FlowerDetect.pdb
+D:\Laboratory\Detect\FlowerDetect\obj\x64\Debug\FlowerDetect.Form1.resources
+D:\Laboratory\Detect\FlowerDetect\obj\x64\Debug\FlowerDetect.Properties.Resources.resources
+D:\Laboratory\Detect\FlowerDetect\obj\x64\Debug\FlowerDetect.csproj.GenerateResource.cache
+D:\Laboratory\Detect\FlowerDetect\obj\x64\Debug\FlowerDetect.csproj.CoreCompileInputs.cache
+D:\Laboratory\Detect\FlowerDetect\obj\x64\Debug\FlowerDetect.csproj.CopyComplete
+D:\Laboratory\Detect\FlowerDetect\obj\x64\Debug\FlowerDetect.exe
+D:\Laboratory\Detect\FlowerDetect\obj\x64\Debug\FlowerDetect.pdb
+D:\Laboratory\Detect\FlowerDetect\bin\x64\Debug\AForge.Controls.dll
+D:\Laboratory\Detect\FlowerDetect\bin\x64\Debug\AForge.dll
+D:\Laboratory\Detect\FlowerDetect\bin\x64\Debug\AForge.Imaging.dll
+D:\Laboratory\Detect\FlowerDetect\bin\x64\Debug\AForge.Video.DirectShow.dll
+D:\Laboratory\Detect\FlowerDetect\bin\x64\Debug\AForge.Video.dll
+D:\Laboratory\Detect\FlowerDetect\obj\x64\Debug\FlowerDetect.csprojAssemblyReference.cache

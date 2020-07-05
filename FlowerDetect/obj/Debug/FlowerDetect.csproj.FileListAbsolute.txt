@@ -1,0 +1,12 @@
+D:\Laboratory\Detect\FlowerDetect\bin\Debug\FlowerDetect.exe.config
+D:\Laboratory\Detect\FlowerDetect\bin\Debug\FlowerDetect.exe
+D:\Laboratory\Detect\FlowerDetect\bin\Debug\FlowerDetect.pdb
+D:\Laboratory\Detect\FlowerDetect\bin\Debug\halcondotnet.dll
+D:\Laboratory\Detect\FlowerDetect\obj\Debug\FlowerDetect.csprojAssemblyReference.cache
+D:\Laboratory\Detect\FlowerDetect\obj\Debug\FlowerDetect.Properties.Resources.resources
+D:\Laboratory\Detect\FlowerDetect\obj\Debug\FlowerDetect.csproj.GenerateResource.cache
+D:\Laboratory\Detect\FlowerDetect\obj\Debug\FlowerDetect.csproj.CoreCompileInputs.cache
+D:\Laboratory\Detect\FlowerDetect\obj\Debug\FlowerDetect.csproj.CopyComplete
+D:\Laboratory\Detect\FlowerDetect\obj\Debug\FlowerDetect.exe
+D:\Laboratory\Detect\FlowerDetect\obj\Debug\FlowerDetect.pdb
+D:\Laboratory\Detect\FlowerDetect\obj\Debug\FlowerDetect.Form1.resources
